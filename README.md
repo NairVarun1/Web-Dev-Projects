@@ -4,4 +4,5 @@ A repository containing multiple projects in the field of Web Development
   <li>Tic Tac Toe</li>
   <li>To-Do List</li>
   <li>Password Manager</li>
+  <li>Emojipedia</li>
 </ul>
